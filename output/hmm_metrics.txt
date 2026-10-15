@@ -1,0 +1,13 @@
+Accuracy: 0.9990
+Macro F1: 0.6653
+Per-class F1: {'S0': np.float64(0.9994285714285716), 'S1': 0.0, 'S2': np.float64(0.996376811594203)}
+Log-likelihood (test, Forward): -2859.92
+Viterbi inference time (s): 0.0942
+Forward inference time (s): 0.1217
+Test set size: 2026
+
+Confusion matrix (rows=true, cols=predicted):
+      S0  S1   S2
+S0  1749   0    2
+S1     0   0    0
+S2     0   0  275
