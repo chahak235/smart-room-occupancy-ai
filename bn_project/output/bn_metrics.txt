@@ -1,0 +1,11 @@
+Accuracy: 0.9462
+Macro F1: 0.6489
+Per-class F1: {'S0': 0.9899665551839465, 'S1': 0.101010101010101, 'S2': 0.8558558558558559}
+Inference time (s, 2027 rows): 0.0696
+Test set size: 2027
+
+Confusion matrix (rows=true, cols=predicted):
+      S0  S1   S2
+S0  1628   0   18
+S1    13   5   74
+S2     2   2  285
